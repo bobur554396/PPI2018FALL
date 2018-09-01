@@ -3,8 +3,8 @@
 using namespace std;
 
 /*
-  Main function that 
-  run first
+  Main function 
+  that runs first
   */
 int main(){
   // variables, data types
