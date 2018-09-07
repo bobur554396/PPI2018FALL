@@ -1,0 +1,39 @@
+PPI Lecture 2
+
+1. data type sizeof
+2. (++, --, +=, -=, *=, /=, %= ) (post/pre inc/dec) (Compound assignment)
+3. comparison operators (==, !=, >, <, >=, <=)
+4. logic operators (!, &&, ||)
+5. printf with floating numbers (M_PI)
+6. math functions - pow, round, ceil, floor
+7. type casting double/float —> int, 
+8. 
+9. 
+10. if else conditions. If —> return 0, gt, lt
+11. even odd example
+12. find grade from points example
+13. max, min
+14. can you draw triangle a, b, c
+15. attendance checker for Fail (credits * 15 * 0.2)
+16. 
+17. 
+18. bit manipulation, or, xor, and, >>, <<, |=, &=, ^=, ~
+19. 2^n example
+20. set 1 for i-th bit of number
+21. invert i-th bit of number
+22. set 0 for i-th bit of number
+23. identify i-th bit of number
+24. 
+25. 
+26. loop operators: for, while, do while
+27. even numbers / odd numbers till 100
+28. infinity loop
+29. all numbers which divisible by 3 in range (a, b)
+30. count number of dividers of N
+31. prime number
+32. fibonacci sequence, first n numbers, all list less than N
+33. factorial
+34. sum of numbers (cin reads numbers in the loop)
+35. string: number of words
+
+
