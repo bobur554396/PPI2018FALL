@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
   /*
-  Find number K and remove it, shift left all rest elements add 0 at the end
+  Show all digits from given string
   input
   hello123world0
   output

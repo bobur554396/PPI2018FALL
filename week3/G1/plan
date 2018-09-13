@@ -35,7 +35,7 @@ PPI Lecture 3
     9. Find number K and remove it, shift left all rest elements add 0 at the end
     10. String samples
         1. s.size(); s.length()
-        2. Show all digits from string
-        3. convert all letter to UPPER
+        2. Show all digits from given string
+        3. convert all letter of the string to UPPER
 11. 
 

@@ -5,14 +5,13 @@ using namespace std;
 int main()
 {
   /*
-  Find number K and remove it, shift left all rest elements add 0 at the end
+  convert all letter of the string to UPPER
   input
   hello
   output
   HELLO
-
-
-  new problem
+  ---------------------------------
+  new problem (homework)
   input
   HellO
   output
