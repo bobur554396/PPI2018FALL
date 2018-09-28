@@ -1,0 +1,40 @@
+PPI Lecture 4
+
+1. Quiz problems, upsolving and marks 
+2. Nested loop 
+    2. 1 1 1 1 2 2 2 2 3 3 3 3
+    3. 1 1 2 1 2 3 1 2 3 4
+3. 2D array (matrix)
+4. Initializing Two-Dimensional Arrays
+5. Accessing Two-Dimensional Array Elements
+6. input, output 
+9. multiplication table (width)
+10. eye (1, 0)
+11. eye (1, 2, 3)
+12. 
+13. 1 0 0 0 
+14. 2 1 0 0 
+15. 2 2 1 0 
+16. 2 2 2 1 
+17.  
+18. 0 0 0 1 
+19. 0 0 1 2 
+20. 0 1 2 2 
+21. 1 2 2 2 
+22. 
+23. symmetric matrix
+    1. with bool
+    2. with return
+24. max, min (with location) in matrix (n, m size)
+25. max per row
+26. snake
+27. 
+28. Состязания-1. 
+
+Вход                   Выход
+ 4 3                    19
+ 5 6 7                  1
+ 6 6 7
+ 7 6 6
+ 4 3 5
+
