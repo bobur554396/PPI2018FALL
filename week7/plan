@@ -1,0 +1,23 @@
+1.Built-in functions
+	sort()
+	tolower, toupper
+	reverse
+	isalpha, isdigit, isalnum
+	sqrt, max, min
+Intro
+	what is functions
+	calling functions
+	function declaration and definition ( before or after main function )
+	function params
+	types of functions
+	local, global vars ( example function )
+Examples
+	hello
+	hello name
+	sum of two
+	max of two
+	square
+	my power ( < 0 power)
+	factorial
+	isPrime
+	toUpper, toLower, isDigit
