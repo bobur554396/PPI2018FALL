@@ -1,0 +1,18 @@
+PPI Lecture 7
+1. What is recursion?
+2. Base case
+3. Stack overflow
+4. Function / Recursion
+    1. show from 1 till n / reverse: from n till 1
+    2. factorial
+    3. sum of digits till N
+        1. simple
+        2. with extract var
+    4. power
+    5. fibonacci
+    6. find minimum/maximum from given array
+    7. show binary of N
+    8. 
+    9. optional
+        1. n * m
+
