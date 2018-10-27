@@ -1,0 +1,28 @@
+PPI Lecture 10
+
+1. What is STL?
+2. Algorithms, Containers, Functions, Iterators
+3. Containers
+    1. vector
+    2. queue
+    3. stack
+    4. set
+    5. map
+4. What is Vector?
+    1. begin(), end()
+    2. size()
+    3. empty()
+    4. at(index)
+    5. front(), back()
+    6. push_back(elm)
+    7. erase(iterator pos), erase(iterator [begin], iterator (end))
+    8. clear()
+5. What is Set?
+    1. begin(), end()
+    2. size()
+    3. empty()
+    4. insert(pos, elm)
+    5. clear()
+    6. find(elm)
+    7. erase(iterator pos), erase(elm)
+    8. remove all elements less than < 4
