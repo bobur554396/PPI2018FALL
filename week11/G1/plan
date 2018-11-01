@@ -1,0 +1,46 @@
+PPI Lecture 9
+
+1. What is Map?
+    1. What is Pair?
+    2. insert(pair<K,V>) (char, int)
+    3. begin() / end() / iterator
+    4. size()
+    5. StudentName and points list
+    6. Find student with max points
+    7. map<string, pair<string, string> > example (ID, name, surname)
+    8. How many times occurs each letter in given string
+2. What is Stack?
+    1. empty()
+    2. size()
+    3. push(elm)
+    4. top()
+    5. pop()
+    6. brackets example
+3. What is Queue?
+    1. push(elm)
+    2. empty()
+    3. size()
+    4. front() / back()
+    5. pop()
+4. 
+5. 
+6. 
+7. optional
+8. 
+9. 
+10. Vector of vectors
+    1. sort by size
+    2. sort by max value
+11. Set of vectors
+    1. sort by vector size
+    2. by min value
+12. Set of pairs
+    1. sort by key
+    2. sort by value
+13. What is Deque?
+    1. push_back(elm) / push_front(elm)
+    2. empty()
+    3. size()
+    4. front() / back()
+    5. pop_front() / pop_back()
+

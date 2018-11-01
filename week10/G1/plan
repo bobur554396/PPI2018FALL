@@ -21,7 +21,7 @@ PPI Lecture 10
     1. begin(), end()
     2. size()
     3. empty()
-    4. insert(pos, elm)
+    4. insert(elm)
     5. clear()
     6. find(elm)
     7. erase(iterator pos), erase(elm)
