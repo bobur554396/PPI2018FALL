@@ -31,19 +31,16 @@ void show(vector<int> v){
 bool cmp2(int a, int b){
   return a < b;
 }
-// 2 3 5
-
-// 2 3 5
 
 bool cmp(const vector<int> &a, const vector<int> &b){
-  vector<int> v1 = a;
-  vector<int> v2 = b;
-  sort(v1.begin(), v1.end());
-  sort(v2.begin(), v2.end());
-  // sort(v1.begin(), v1.end(), cmp2);
-  // sort(v2.begin(), v2.end(), cmp2);
-  return v1[v1.size() - 1] > v2[v2.size() - 1];
-  // return v1[0] > v2[0];
+  vector<int> vec1 = a;
+  vector<int> vec2 = b;
+  sort(vec1.begin(), vec1.end());
+  sort(vec1.begin(), vec1.end());
+  // sort(vec1.begin(), vec1.end(), cmp2);
+  // sort(vec2.begin(), vec2.end(), cmp2);
+  return vec1[vec1.size() - 1] > vec2[vec2.size() - 1];
+  // return vec1[0] > vec2[0];
 }
 
 int main(){
