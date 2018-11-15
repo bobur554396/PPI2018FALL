@@ -6,7 +6,7 @@
 using namespace std;
 
 int genRandom(){
-  return rand() % 100 + 1;
+  return 3;
 }
 
 void doIt(int a){
@@ -26,7 +26,7 @@ int main(){
   for_each(v.begin(), v.end(), doIt);
 
   // for(int i = 0; i < v.size(); i++)
-  //   cout << v[i] << " ";
+  //   cout << v[i] << " "
 
   return 0;
 }
