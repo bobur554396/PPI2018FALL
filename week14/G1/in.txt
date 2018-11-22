@@ -1,0 +1,5 @@
+4
+AStudent1 18 3.7
+BStudent1 19 3.8
+CStudent1 20 3.2
+CStude2 18 4
