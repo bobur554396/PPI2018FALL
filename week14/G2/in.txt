@@ -1,0 +1,5 @@
+4
+astudent1 18 3.8
+bstudent23 19 3.9
+bstudent24 21 4
+dstudent4 20 3.5

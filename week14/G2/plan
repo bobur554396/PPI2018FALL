@@ -1,0 +1,22 @@
+PPI Lecture 10
+1. What is pointer?
+2. declaring pointers
+3. square example
+    1. call-by-Value 
+    2. call-by-Reference with Pointer Arguments
+    3. call-by-Reference with Reference Arguments
+4. array as arg to the function
+5. example with 2, 3
+6. fill array with pointer
+7. looping through array using pointers
+8. 
+9. What is struct?
+10. Student example
+11. simple read on object data
+12. freopen read
+13. constructor
+14. toString
+15. sort by gpa
+16. header file
+17. find student by name
+18. find all gpa above
